@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Old Ephraim",
 	"description": "This is deeply frustrating",
+	"license": "MIT",
 	"keywords": [
 		"Old",
 		"Ephraim",
